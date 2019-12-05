@@ -1,2 +1,2 @@
 # website
-CS Website on GIT
+Rina R. Wehbe's Git Page Website
